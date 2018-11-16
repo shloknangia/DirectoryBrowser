@@ -1,0 +1,4 @@
+adminuser|adminpass|ALL
+omkar|omkarpass|ORG
+fanny|fannypass|FIELD
+william|willpass|WELL
